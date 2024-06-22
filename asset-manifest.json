@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/google-analytic/static/css/main.c6f733c4.css",
+    "main.js": "/google-analytic/static/js/main.2662ccbe.js",
+    "static/media/Logo_Google_Analytics.svg.png": "/google-analytic/static/media/Logo_Google_Analytics.svg.9cfb796685f483bfcf37.png",
+    "static/media/no-data-found.png": "/google-analytic/static/media/no-data-found.a5d36933a81876c979c6.png",
+    "static/media/nodata1.png": "/google-analytic/static/media/nodata1.89eb601b6ad39efefdad.png",
+    "index.html": "/google-analytic/index.html",
+    "main.c6f733c4.css.map": "/google-analytic/static/css/main.c6f733c4.css.map",
+    "main.2662ccbe.js.map": "/google-analytic/static/js/main.2662ccbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f733c4.css",
+    "static/js/main.2662ccbe.js"
+  ]
+}
